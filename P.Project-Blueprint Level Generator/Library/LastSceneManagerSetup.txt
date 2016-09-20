@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Inhouse Assets/Scenes/LevelGeneratorBeta.unity
+  isLoaded: 1
+  isActive: 1
